@@ -23,6 +23,7 @@
   "devDependencies": {
     "@babel/core": "^7.22.11",
     "@babel/plugin-transform-modules-commonjs": "^7.22.11",
+    "dotenv-webpack": "^2.0.0",
     "html-loader": "^4.2.0"
   },
   "dependencies": {
